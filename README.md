@@ -12,7 +12,7 @@ This applicaion also provides an images of the Infected Area separated from the 
 
 Step1 : **Select a language for Implementation** - Python is used in this project for developing as it has [Scikit-Learn](https://scikit-learn.org/stable/) Library which has many tools that can be used for Image Processing.
 
-Step2 :
+Step2 : **Select an optimal Algorithm** - Entropy from Scikit-Image is used.
 
 
 
