@@ -21,7 +21,7 @@ Step 4: **Create an User Interface** - [Kivy](https://kivy.org/#home) is used.
 Step 5: **Testing** -  Different images are used for testing 
 
 ## **Implementation** 
-
+The Python code can be seen here - main.py and Kivy code here - IP.kv 
 This is the image used for creating the algorithm.
 
 <p align="center">
@@ -31,10 +31,27 @@ This is the image used for creating the algorithm.
 
 A test run of the application is shown.
 
+<p align="center">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/1.jpg" width="200" title="hover text">
 
+<p align="center">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/2.jpg" width="300" title="hover text">
 
+<p align="center">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/3.jpg" width="200" title="hover text">
 
+<p align="center">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/4.jpg" width="200" title="hover text">
 
-
+<p align="center">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/5.jpg" width="200" title="hover text">
+  
+  
+  
+  
+  
+  
+  
+  
   
 
