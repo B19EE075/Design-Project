@@ -1,1 +1,1 @@
-<!-- Project : Medical Image Processing Applications -->
+<!-- BLOG-POST-LIST:Project : Medical Image Processing Applications -->
