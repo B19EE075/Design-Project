@@ -21,7 +21,7 @@ Step 4: **Create an User Interface** - [Kivy](https://kivy.org/#home) is used.
 Step 5: **Testing** -  Different images are used for testing 
 
 ## **Implementation** 
-The Python code can be seen here - [main.py](https://github.com/B19EE075/Design-Project/blob/a1db88bb0cfa50cf4189dd89642d10787f73cf90/main.py) and Kivy code here - [IP.kv](https://github.com/B19EE075/Design-Project/blob/a1db88bb0cfa50cf4189dd89642d10787f73cf90/IP.kv) 
+The Python code can be seen here - [main.py](https://github.com/B19EE075/Design-Project/blob/a1db88bb0cfa50cf4189dd89642d10787f73cf90/main.py) and Kivy code here - [IP.kv](IP.kv) 
 This is the image used for creating the algorithm.
 
 <p align="center">
