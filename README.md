@@ -30,20 +30,28 @@ This is the image used for creating the algorithm.
 </p>
 
 A test run of the application is shown.
+This is the homepage of the app.
 
 <p align="center">
   <img src="https://github.com/B19EE075/Design-Project/blob/f3b0809153f92181a6eb2571e8188bcded7076ba/Assets/1.png" width="200" title="hover text">
 
+An image is selected by clicking the select button on the homepage. It is shown in minimized form.
+  
 <p align="center">
   <img src="https://github.com/B19EE075/Design-Project/blob/86e7332b571733679d8e8bf4d0a7c6d4f5617e27/Assets/3.png" width="200" title="hover text">
 
+Then the submit button will start the processing and will show the result in 10 secs (average).
+The Infected area for the above selected image can be seen below i.e. Infected area = 7.662
 <p align="center">
   <img src="https://github.com/B19EE075/Design-Project/blob/86e7332b571733679d8e8bf4d0a7c6d4f5617e27/Assets/4.png" width="200" title="hover text">
 
+The infected part is shown separately with the real image.
 <p align="center">
   <img src="https://github.com/B19EE075/Design-Project/blob/86e7332b571733679d8e8bf4d0a7c6d4f5617e27/Assets/5.png" width="200" title="hover text">
   
-  
+## **Conclusion**  
+So the application is showing the results and can be used to check the progress of its treatment by evaluating the area of the infection.
+The application is under development and can be used by developer or a student having knowledge of python and kivy using the source code.
   
   
   
