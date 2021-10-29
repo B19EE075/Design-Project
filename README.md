@@ -24,7 +24,10 @@ Step 5: **Testing** -  Different images are used for testing
 
 This is the image used for creating the algorithm.
 
-Project/blob/1adcc700240c9c8b5cf3de7dbbc2d212924780da/Assets/back.jpg" alt="drawing" align="center" width="200"/>
+<p align="center">
+  <img src="your_relative_path_here" width="200" title="hover text">
+  
+</p>
 
 A test run of the application is shown.
 
