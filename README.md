@@ -25,7 +25,7 @@ Step 5: **Testing** -  Different images are used for testing
 This is the image used for creating the algorithm.
 
 <p align="center">
-  <img src="your_relative_path_here" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/back.jpg" width="200" title="hover text">
   
 </p>
 
