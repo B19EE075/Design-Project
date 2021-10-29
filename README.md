@@ -32,7 +32,7 @@ This is the image used for creating the algorithm.
 A test run of the application is shown.
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/1.png" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/f3b0809153f92181a6eb2571e8188bcded7076ba/Assets/1.png" width="200" title="hover text">
 
 <p align="center">
   <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/2.png" width="300" title="hover text">
