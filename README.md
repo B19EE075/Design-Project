@@ -10,9 +10,20 @@ This applicaion also provides an images of the Infected Area separated from the 
 
 ## **Implementation Steps** 
 
-Step1 : **Select a language for Implementation** - Python is used in this project for developing as it has [Scikit-Learn](https://scikit-learn.org/stable/) Library which has many tools that can be used for Image Processing.
+Step 1 : **Select a language for Implementation** - Python is used in this project for developing as it has [Scikit-Learn](https://scikit-learn.org/stable/) Library which has many tools that can be used for Image Processing.
 
-Step2 : **Select an optimal Algorithm** - Entropy from Scikit-Image is used.
+Step 2 : **Select an optimal Algorithm** - [Entropy](https://scikit-image.org/docs/dev/auto_examples/filters/plot_entropy.html) from Scikit-Image is used.
+
+Step 3 : **Tuning of Parameters** - There are many attributes in the implementation which needs tuning to improvise accuracy.
+
+Step 4: **Create an User Interface** - [Kivy](https://kivy.org/#home) is used. 
+
+Step 5: **Testing** -  Different images are used for testing 
+
+## **Implementation** 
+
+Select an Image from the system by clicking on the select button.
+
 
 
 
