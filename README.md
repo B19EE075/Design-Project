@@ -1,1 +1,1 @@
-<font size="1"> <!-- BLOG-POST-LIST:START  -->Project : Medical Image Processing Applications<!-- BLOG-POST-LIST:END  --> </font>
+<font size="4"> <!-- BLOG-POST-LIST:START  -->Project : Medical Image Processing Applications<!-- BLOG-POST-LIST:END  --> </font>
