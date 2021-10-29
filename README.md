@@ -50,8 +50,11 @@ The infected part is shown separately with the real image.
   <img src="https://github.com/B19EE075/Design-Project/blob/86e7332b571733679d8e8bf4d0a7c6d4f5617e27/Assets/5.png" width="200" title="hover text">
   
 ## **Conclusion**  
-So the application is showing the results and can be used to check the progress of its treatment by evaluating the area of the infection.
-The application is under development and can be used by developer or a student having knowledge of python and kivy using the source code.
+So the application is showing the results and can be used to check the progress of the treatment by evaluating the area of the infection.
+ 
+The application is still under development and improvisation and can be used by anyone having knowledge of python and kivy using the source code 
+ 
+The apk file will also be available here which can be used by anyone easily.
   
   
   
