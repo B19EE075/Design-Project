@@ -32,19 +32,19 @@ This is the image used for creating the algorithm.
 A test run of the application is shown.
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/1.jpg" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/1.jfif" width="200" title="hover text">
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/2.jpg" width="300" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/2.jfif" width="300" title="hover text">
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/3.jpg" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/3.jfif" width="200" title="hover text">
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/4.jpg" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/4.jfif" width="200" title="hover text">
 
 <p align="center">
-  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/5.jpg" width="200" title="hover text">
+  <img src="https://github.com/B19EE075/Design-Project/blob/6ab09269da55fa3669f0759cc4a2b52e91a866e2/Assets/5.jfif" width="200" title="hover text">
   
   
   
