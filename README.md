@@ -22,9 +22,13 @@ Step 5: **Testing** -  Different images are used for testing
 
 ## **Implementation** 
 
-Select an Image from the system by clicking on the select button.
-![img](https://github.com/B19EE075/Design-Project/blob/1adcc700240c9c8b5cf3de7dbbc2d212924780da/Assets/back.jpg | width=100)
-<img src="https://github.com/B19EE075/Design-Project/blob/1adcc700240c9c8b5cf3de7dbbc2d212924780da/Assets/back.jpg" alt="drawing" width="200"/>
+This is the image used for creating the algorithm.
+
+Project/blob/1adcc700240c9c8b5cf3de7dbbc2d212924780da/Assets/back.jpg" alt="drawing" align="center" width="200"/>
+
+A test run of the application is shown.
+
+
 
 
 
