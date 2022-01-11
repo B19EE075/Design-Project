@@ -6,7 +6,7 @@ This project contains development of an application to evaluate a Medical Image 
 
 An Image of a specific body part (Back for project) of a patient having Fungal or Bacterial Infection is provided to the application and this application will calculate the Percentage(Relative Area) of the infected region with respect to the body part having infection.
 
-This applicaion also provides an images of the Infected Area separated from the body.
+This application also provides an images of the Infected Area separated from the body.
 
 ## **Implementation Steps** 
 
